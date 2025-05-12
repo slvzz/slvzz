@@ -5,7 +5,7 @@
  🎓 Estudante de <b>Análise e desenvolvimento de sistemas</b> do <a href="https://ifrs.edu.br/"><b>IFRS</b></a>.<br>
  💼 Trabalho na <a href="https://unifique.com.br/"><b>Unifique</b></a>.<br>
  👨🏻‍💻 Atualmente trabalho como Assistente de TI.<br>
- 🐀 Em constante evolução para me tornar desenvolvedor. Caso queira, pode acompanhar meu <a href="https://slvzz.github.io/portfolio/"><b>Portfólio</b>.</a>
+ 🐀 Em constante evolução para me tornar desenvolvedor. Caso queira, pode acompanhar meu <a href="https://slvzz.github.io/portfolio/"><b>Portfólio</b></a>.
 
 ## 🖥️ Tecnologias
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><br>
